@@ -2,8 +2,30 @@
 
 回北京的第一天。
 
+如下为回来需要完成的基本任务：
+1. 眼镜2副 （500元）
+2. 隐形眼镜半月抛 6个月＋眼镜盒＋护理液。 （500元）
+3. 美瞳日抛 6个月。（500元）
 
+牙齿：
+1. 检查牙齿
+2. 拔掉智齿
+
+银行卡：
+1. 自己的银行卡
+2. 充值美元（或者找爸妈要点儿钱）
+3. 开一个淘宝账号和一个支付宝账号 <v>
+4. 开一个手机账号 
+
+ 见面：
+ 1. 闪师傅 
+ 2. 睿姐
+ 3. 望望
+ 4. 嗷嗷
+ 5. 熊
+ 6. ACM
+  
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjgzOTEwXX0=
+eyJoaXN0b3J5IjpbLTE0MjQwMzgyMjRdfQ==
 -->
