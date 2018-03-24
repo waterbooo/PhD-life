@@ -15,7 +15,7 @@
 1. 自己的银行卡
 2. 充值美元（或者找爸妈要点儿钱）
 3. 开一个淘宝账号和一个支付宝账号 <v>
-4. 开一个手机账号 
+4. 开一个手机账号 （v）
 
  见面：
  1. 闪师傅 
@@ -27,5 +27,5 @@
   
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQwMzgyMjRdfQ==
+eyJoaXN0b3J5IjpbLTczMjE0MjA1M119
 -->
