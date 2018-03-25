@@ -3,8 +3,8 @@
 回北京的第一天。
 
 如下为回来需要完成的基本任务：
-1. 眼镜2副 （500元）
-2. 隐形眼镜半月抛 6个月＋眼镜盒＋护理液。 （500元）
+1. 眼镜2副 （500元）(250元，v)
+2. 隐形眼镜半月抛 6个月＋眼镜盒＋护理液。 （500元）（300元v）
 3. 美瞳日抛 6个月。（500元）
 
 牙齿：
@@ -27,5 +27,5 @@
   
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjE0MjA1M119
+eyJoaXN0b3J5IjpbLTYwOTM2MDc4N119
 -->
