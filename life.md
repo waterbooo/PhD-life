@@ -18,14 +18,10 @@
 4. 开一个手机账号 （v）
 
  见面：
- 1. 闪师傅 
- 2. 睿姐
- 3. 望望
- 4. 嗷嗷
- 5. 熊
- 6. ACM
+ 1. 熊
+ 2. ACM
   
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTM2MDc4N119
+eyJoaXN0b3J5IjpbOTg2NzM0NjczXX0=
 -->
